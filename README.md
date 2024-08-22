@@ -110,9 +110,7 @@ Here are some ideas to get you started:
 <h3 align="center">📈 Git Stats </h3>
 
 <div align="center">
-    ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api
-    username=kmdy7991&show_icons=true&theme=github_dark)
-    </a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmdy7991&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
