@@ -19,6 +19,19 @@ Here are some ideas to get you started:
 </p>
 <br>
 
+<h3>📈 Git Stats & 💻 PS </h3>
+<div>
+  <div>
+    <a href="https://solved.ac/dy1024">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dy1024" alt="Solved.ac Profile" width="300px"/>
+    </a>
+  </div>
+  <div>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmdy7991&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  </div>
+</div>
+
 <h3 >📊 Most Languages & Skills </h3>
 
 <div>
@@ -29,7 +42,6 @@ Here are some ideas to get you started:
 <br>
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -92,22 +104,9 @@ Here are some ideas to get you started:
     </div><br>
 </div>
 
-<h3 align="center">💻 PS </h3>
-
-<div align="center">
-    <a href="https://solved.ac/dy1024">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dy1024" alt="Solved.ac Profile" width="300px"/>
-    </a>
-</div>
-
-<h3 align="center">📈 Git Stats </h3>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmdy7991&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <h3>📞 Contact </h3>
 
-<p align="center">
+<p>
     <a href="mailto:mnil7991@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
