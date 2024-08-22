@@ -12,28 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>🙋 About Me </h2>
 
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20DY%20GitHub%20👋&fontSize=40" />
-</div>
-
-<h2 align="center">🙋 About Me </h2>
-
-<p align="center">
+<p>
   작성중....
 </p>
 <br>
 
-<h3 align="center">📊 Most Languages </h3>
+<h3 >📊 Most Languages & Skills </h3>
 
-<div align="center">
+<div>
     <a href="https://github.com/kmdy7991">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmdy7991&layout=compact&theme=radical" alt="Top Languages" />
     </a>
 </div>
 <br>
-
-<h3 align="center">🚀 Used Stacks </h3>
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <!-- Backend -->
@@ -103,25 +96,19 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="https://solved.ac/dy1024">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dy1024" alt="Solved.ac Profile" width="500px"/>
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dy1024" alt="Solved.ac Profile" width="300px"/>
     </a>
 </div>
 
 <h3 align="center">📈 Git Stats </h3>
 
-<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmdy7991&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 
-<h3 align="center">📞 Contact Me </h3>
+<h3>📞 Contact </h3>
 
 <p align="center">
     <a href="mailto:mnil7991@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
 </p>
-
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
-</div>
