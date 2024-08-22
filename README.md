@@ -21,13 +21,12 @@ Here are some ideas to get you started:
 
 <h3>📈 Git Stats & 💻 PS </h3>
 
-<div>
-    <a href="https://solved.ac/dy1024">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dy1024" alt="Solved.ac Profile" width="300px"/>
-    </a>
-    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmdy7991&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+<div style="display:flex;flex-direction:row;">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmdy7991&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <a href="https://solved.ac/dy1024">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dy1024" alt="Solved.ac Profile" width="300px"/>
+  </a>
 </div>
 
 <h3 >📊 Most Languages & Skills </h3>
