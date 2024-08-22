@@ -22,16 +22,18 @@ Here are some ideas to get you started:
 <p align="center">
   작성중....
 </p>
+<br>
 
-<h3 align="center">💻 Most Languages </h3>
+<h3 align="center">📊 Most Languages </h3>
 
 <div align="center">
     <a href="https://github.com/kmdy7991">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmdy7991&layout=compact&theme=radical" alt="Top Languages" />
     </a>
 </div>
+<br>
 
-<h3 align="center">🚀 Used Stack </h3>
+<h3 align="center">🚀 Used Stacks </h3>
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
      <!-- Backend -->
@@ -97,11 +99,19 @@ Here are some ideas to get you started:
     </div><br>
 </div>
 
-<h3 align="center">📈 Competitive Programming </h3>
+<h3 align="center">💻 PS </h3>
 
 <div align="center">
     <a href="https://solved.ac/dy1024">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dy1024" alt="Solved.ac Profile" width="500px"/>
+    </a>
+</div>
+
+<h3 align="center">📈 Git Stats </h3>
+
+<div align="center">
+    ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api
+    username=kmdy7991&show_icons=true&theme=github_dark)
     </a>
 </div>
 
