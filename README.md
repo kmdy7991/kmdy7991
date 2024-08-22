@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 
 
-<div style="display:flex;flex-direction:row;">
+<div style="display:flex;flex-direction:colume;">
 
   <div>
     <h3> 📈 Git Stats </h3>
