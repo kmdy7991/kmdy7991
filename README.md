@@ -80,6 +80,6 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="mailto:mnil7991@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="100px"/>
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" width="70px"/>
     </a>
 </p>
