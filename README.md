@@ -12,38 +12,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>🙋 About Me </h2>
+<h2> 🙋 About Me </h2>
 
 <p>
   작성중....
 </p>
 <br>
 
+<h2> 📈 Git Stats </h2>
 
-<div style="display:flex;flex-direction:colume;">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmdy7991&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  <div>
-    <h3> 📈 Git Stats </h3>
-    
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmdy7991&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-  
-  <div>
-    <h3> 💻 PS </h3>
+<h2> 💻 PS </h2>
     <a href="https://solved.ac/dy1024">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dy1024" alt="Solved.ac Profile" width="300px"/>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dy1024" alt="Solved.ac Profile" width="550px"/>
     </a>
-  </div>
-</div>
 
-<h3 >📊 Most Languages & Skills </h3>
+<h2> 📊 Most Languages </h2>
 
 <div>
     <a href="https://github.com/kmdy7991">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmdy7991&layout=compact&theme=radical" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmdy7991&layout=compact&theme=radical" alt="Top Languages" width="550px"/>
     </a>
 </div>
 <br>
+
+<h2> 🚀 Skill's </h2>
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p><strong>Backend</strong></p>
@@ -108,9 +102,9 @@ Here are some ideas to get you started:
     </div><br>
 </div>
 
-<h3>📞 Contact </h3>
+<h2> 📞 Contact </h2>
 
-<p>
+<p align="center">
     <a href="mailto:mnil7991@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
