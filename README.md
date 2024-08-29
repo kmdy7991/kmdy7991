@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 -->
 <h2> 🙋 About Me </h2>
 
-<p>
+<p align="center">
 Web Backend Developer
+</p>
 
+<p>
 I like Java..
 
 Move on Kotlin!!
