@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 <h2> 🙋 About Me </h2>
 
 <p>
-  작성중....
+Web Backend Developer
+
+I like Java..
+
+Move on Kotlin!!
+
 </p>
 
 <h2> 📈 Git Stats </h2>
