@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 <h2> 🙋 About Me </h2>
 
 <h3 align="center">
-Web Backend Developer
+🌏 Web Backend Developer 🌏
 </h3>
 
 <p>
-I like Java..
+I like Java.. ☕
 
 Move on Kotlin!!
 
