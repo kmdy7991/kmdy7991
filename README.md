@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 <h2> 🙋 About Me </h2>
 
-<p align="center">
+<h3 align="center">
 Web Backend Developer
-</p>
+</h3>
 
 <p>
 I like Java..
