@@ -68,12 +68,7 @@ Move on Kotlin!!
     <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=black">
     </div>
     </p>
-    <!-- Frontend -->
-    <p><strong>Frontend</strong>
-    <div>
-        <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-    </div>
-    </p>
+
 </div>
 
 <h2> 💻 PS </h2>
