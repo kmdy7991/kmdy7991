@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 I like Java.. ☕
 
 Move on Kotlin!!
-
 </p>
 
 <h2> 📈 Git Stats </h2>
@@ -29,34 +28,12 @@ Move on Kotlin!!
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Language -->
-    <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-    </div>
+    <p>
+        <div>
+            <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+            <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+        </div>
     </p>
-    <!-- Backend -->
-    <div>
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
-        <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-    </div>
-    </p>
-    <!-- Database -->
-    <div>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    </div>
-    </p>
-    <div>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    </div>
-    </p>
-    <div>
-    <img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=black">
-    <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=black">
-    <img src="https://img.shields.io/badge/Gerrit-EEEEEE?style=for-the-badge&logo=gerrit&logoColor=black">
-    <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=black">
-    </div>
-    </p>
-
 </div>
 
 <h2> 💻 PS </h2>
