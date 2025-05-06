@@ -12,19 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> 🙋 About Me </h2>
+<h2> About Me </h2>
 
 <p>
-I like Java.. ☕
-
-Move on Kotlin!!
+Java Developer ☕
 </p>
 
-<h2> 📈 Git Stats </h2>
+<h2> Git </h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kmdy7991&show_icons=true&theme=vue-dark" width="400px"/>
 
-<h2> 🚀 Skill's </h2>
+<h2> Use </h2>
 
 <div style="display:flex; flex-direction:column; align-items:center;">
     <!-- Language -->
@@ -36,13 +34,13 @@ Move on Kotlin!!
     </p>
 </div>
 
-<h2> 💻 PS </h2>
+<h2> PS </h2>
 <div align="center">
     <a href="https://solved.ac/dy1024">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dy1024" alt="Solved.ac Profile" width="450px"/>
     </a>
 </div>
-<h2> 📨 Contact Me </h2>
+<h2> Contact </h2>
 
 <p align="center">
     <a href="mailto:mnil7991@gmail.com">
