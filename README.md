@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 <h2> About Me </h2>
 
 <p>
-Java Developer ☕
+Server Developer
 </p>
 
 <h2> Git </h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=kmdy7991&show_icons=true&theme=vue-dark" width="400px"/>
 
-<h2> Use </h2>
+<h2> Skills </h2>
 
 <div style="display:flex; flex-direction:column; align-items:center;">
     <!-- Language -->
